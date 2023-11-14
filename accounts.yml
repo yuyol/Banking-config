@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to YY Bank accounts related local APIs"
+  message: "Welcome to YY Bank accounts related docker APIs"
   contactDetails:
     name: "Yang Yu - Developer"
     email: "yy368@uw.edu"

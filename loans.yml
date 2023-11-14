@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to YY Bank loans related local APIs"
+  message: "Welcome to YY Bank loans related docker APIs"
   contactDetails:
     name: "Yang Yu - Developer"
     email: "yy368@uw.edu"
