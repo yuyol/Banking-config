@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to YY Bank cards related Prod APIs"
+  message: "Welcome to YY Bank cards related Production APIs"
   contactDetails:
     name: "Yang Yu - Developer"
     email: "yy368@uw.edu"
